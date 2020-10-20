@@ -1,0 +1,43 @@
+
+.icons{
+    font-size:40px;
+    color: #1cc7c1;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid #6ACECE;
+    padding: 10px;
+    margin-top:20px;
+   
+}
+
+.login img{
+    height:60px;
+    margin-top:50px;
+}
+.loginForm{
+    position: absolute;
+    width: 570px;
+    height: 457px;
+    left: 435px;
+    top: 171px;
+
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.loginForm h1{
+   
+margin-top: 100px;
+text-align: center;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
